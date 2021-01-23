@@ -3,7 +3,7 @@
 ## I'm a Broadcast Technician, Developer, content creator and adventurer!
 
 - 🗼 I work at [Rai Way](http://www.raiway.it/) as broadcast technician and I am currently installing the new DVB-T2 network in Italy!
-- 🌱 I’m currently learning [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+- 📘 I accomplished the [Google IT Automation with Python Professional Certificate](https://www.youracclaim.com/badges/6009444b-bdd2-45ef-9c6b-3261f61de267/public_url)
 - 📹 I sometimes make some great YouTube videos, [like this one](https://www.youtube.com/watch?v=95p8HCrrzlM)
 - 🌳 I love making adventures in nature: sea or mountains I like them both
 - 🖼 I have a page of memes about my city (I don't link it, you wouldn't understand 🤣)
