@@ -49,15 +49,19 @@
 
 ## Projects on GitHub
   
-### **[Most Subscribed YouTube Music Channels](https://github.com/marco97pa/MostSubYTMusicChannels)**
-A bot that posts updates on **[Twitter](https://twitter.com/mostSubYTMusic?s=20)** about the most subscribed YouTube Music channels.  
-It also has its **[own website](https://marco97pa.github.io/MostSubYTMusicChannels/)** providing live charts.  
-Developed with **Python** and running on cloud through **GitHub Actions**
+### **[Blackpink Data](https://github.com/marco97pa/Blackpink-Data)**
+A bot that posts updates on **[Twitter](https://twitter.com/data_blackpink)** about the famous kpop girl group **BLACKPINK**.  
+Based on many different sources (like Instagram, YouTube, Spotify, Twitter and others), the bot tweets updates, pictures, videos, charts, links and more.  
+Developed with **Python** and running on **cloud** 24/7 through **GitHub Actions**. It also has an extended [documentation](https://blackpink-data.readthedocs.io/en/latest/), useful to make a fork with a different group.
 
 ### **[Points Buraco](https://github.com/marco97pa/punti-burraco)**
 A Buraco scorekeeper with social functions and different modes for **Android**, written in **Java**.  
 I started developing this app when I was 15 for my family, but then it improved A LOT and I learnt many lessons by facing real problems and changing approach.  
 It has more than **25.000 downloads** and it's available for free on the **[Google Play Store](https://play.google.com/store/apps/details?id=com.marco97pa.puntiburraco)**
+
+### **[Most Subscribed YouTube Music Channels](https://github.com/marco97pa/MostSubYTMusicChannels)**
+A **[website](https://marco97pa.github.io/MostSubYTMusicChannels/)** providing live charts on the most subscribed YouTube Music artists.  
+Developed with **Ionic 5** (**React**) and **Python**.
 
 ### **[Minecraft](https://github.com/fogleman/Minecraft)**
 This is a Minecraft porting using **Python**, made by [fogleman](https://github.com/fogleman)  
