@@ -59,6 +59,11 @@ A Buraco scorekeeper with social functions and different modes for **Android**, 
 I started developing this app when I was 15 for my family, but then it improved A LOT and I learnt many lessons by facing real problems and changing approach.  
 It has more than **25.000 downloads** and it's available for free on the **[Google Play Store](https://play.google.com/store/apps/details?id=com.marco97pa.puntiburraco)**
 
+### **[copy-paste-hack-js](https://github.com/marco97pa/copy-paste-hack-js)**
+An easy but powerful hack of the standard copy-paste behaviour of any browser, written in plain **JavaScript**.  
+This is particular risky for developers, who are used to copy and paste code from Internet.
+This exploit can be used to execute any arbitrary code from the Internet whenever the user pastes in a terminal.
+
 ### **[Most Subscribed YouTube Music Channels](https://github.com/marco97pa/MostSubYTMusicChannels)**
 A **[website](https://marco97pa.github.io/MostSubYTMusicChannels/)** providing live charts on the most subscribed YouTube Music artists.  
 Developed with **Ionic 5** (**React**) and **Python**.
